@@ -1,0 +1,35 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml:2:5-48
+		INJECTED from D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml
+		INJECTED from D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml:3:5-6:19
+service#com.baidu.location.f
+ADDED from D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml:4:9-5:19
+	android:process
+		ADDED from D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml:4:77-102
+	android:enabled
+		ADDED from D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml:4:54-76
+	android:name
+		ADDED from D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml:4:18-53
+uses-sdk
+INJECTED from D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml
+INJECTED from D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml
+INJECTED from D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml
+INJECTED from D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml
+		ADDED from D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml
+		INJECTED from D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml
+		ADDED from D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml
+		INJECTED from D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml

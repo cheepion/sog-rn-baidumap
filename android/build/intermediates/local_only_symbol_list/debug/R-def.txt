@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+anim pop_hide
+anim pop_show
+drawable popup
+id text
+layout layout_marker
+layout text_bubble
+mipmap icon_gcoding
+style Bubble.TextAppearance.Dark
+style Bubble.TextAppearance.Light
+style ClusterIcon.TextAppearance
+style Popuwindow

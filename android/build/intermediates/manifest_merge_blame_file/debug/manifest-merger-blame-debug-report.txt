@@ -1,0 +1,24 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.lovebing.reactnative.baidumap" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="29" />
+7-->D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml
+8
+9    <application>
+9-->D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml:3:5-6:19
+10        <service
+10-->D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml:4:9-5:19
+11            android:name="com.baidu.location.f"
+11-->D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml:4:18-53
+12            android:enabled="true"
+12-->D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml:4:54-76
+13            android:process=":remote" >
+13-->D:\project\Plugin\rnBaiduMap\node_modules\react-native-baidu-map\android\src\main\AndroidManifest.xml:4:77-102
+14        </service>
+15    </application>
+16
+17</manifest>
