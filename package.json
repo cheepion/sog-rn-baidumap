@@ -8,18 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lovebing/react-native-baidu-map.git"
+    "url": "git+https://github.com/cheepion/sog-rn-baidumap.git"
   },
   "keywords": [
     "Baidu Map",
     "React Native"
   ],
-  "author": "lovebing",
+  "author": "Elvis",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/lovebing/react-native-baidu-map/issues"
-  },
-  "homepage": "https://github.com/lovebing/react-native-baidu-map#readme",
   "devDependencies": {
     "react": "16.6.1",
     "react-native": "^0.57.5"

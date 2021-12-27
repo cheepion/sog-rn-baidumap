@@ -1,17 +1,17 @@
 
-# 基于 react-native-baidu-map [![npm version](https://img.shields.io/npm/v/react-native-baidu-map.svg?style=flat)](https://www.npmjs.com/package/react-native-baidu-map)而做的修改, 解决支持不了0.64以上版本的问题并重写了定位方法Geolocation
+### 基于 react-native-baidu-map [![npm version](https://img.shields.io/npm/v/react-native-baidu-map.svg?style=flat)](https://www.npmjs.com/package/react-native-baidu-map)而做的修改, 解决支持不了0.64以上版本的问题并重写了定位方法Geolocation
 
-1.0.x 分支：react-native-baidu-map-old [![npm version](https://img.shields.io/npm/v/react-native-baidu-map-old.svg?style=flat)](https://www.npmjs.com/package/react-native-baidu-map-old)
+使用: 
+`` npm i sog-baidu-map``js
 
 分支说明：
 - master：支持 react-native 0.61 及以上版本，Android 使用 androidx
-- 1.0.x：支持 react-native 0.60 及 0.50，Android 未使用 androidx
 
 Baidu Map SDK modules and views for React Native(Android & iOS), support react native 0.61.2+
 
 百度地图 React Native 模块。
 
-使用示例：https://github.com/lovebing/react-native-baidu-map-examples
+使用示例：https://github.com/cheepion/sog-rn-baidumap/tree/master/Example
 
 使用百度地图SDK最新版本。
 Android 版导入的 SDK 包含以下模块：
@@ -20,10 +20,6 @@ Android 版导入的 SDK 包含以下模块：
 - 检索功能、LBS云检索
 - 计算工具
 
-### 在线交流
-QQ群：561086908
-
-### 近期 TODO:
 #### Android
 - 完善坐标转换
 - 添加一些常用的方法
@@ -280,7 +276,4 @@ Cluster 示例
     <string>baidumap</string>
 </array>
 ```
-
-### 鸣谢
-[![jetbrains](https://raw.githubusercontent.com/lovebing/react-native-baidu-map/master/images/jetbrains.png)](https://www.jetbrains.com/?from=react-native-baidu-map)
 
