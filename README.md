@@ -1,8 +1,8 @@
 
-### 基于 react-native-baidu-map [![npm version](https://img.shields.io/npm/v/react-native-baidu-map.svg?style=flat)](https://www.npmjs.com/package/react-native-baidu-map)而做的修改, 解决支持不了0.64以上版本的问题并重写了定位方法Geolocation
+### sog-baidu-map当前版本 [![npm version](https://img.shields.io/npm/v/sog-baidu-map.svg?style=flat)](https://www.npmjs.com/package/sog-baidu-map), 解决支持不了rn0.64以上版本的问题并重写了定位方法
 
 使用: 
-`` npm i sog-baidu-map``js
+`` npm i sog-baidu-map or yarn add sog-baidu-map``
 
 分支说明：
 - master：支持 react-native 0.61 及以上版本，Android 使用 androidx
@@ -29,10 +29,7 @@ Android 版导入的 SDK 包含以下模块：
 - 完善 Cluster（点聚合）
 - 添加一些常用的方法
 
-Marker icon 的实现参考了 https://github.com/react-native-community/react-native-maps 的相关代码。
-
-![Android](https://raw.githubusercontent.com/lovebing/react-native-baidu-map/master/images/android.jpg)
-![iOS](https://raw.githubusercontent.com/lovebing/react-native-baidu-map/master/images/ios.jpg)
+Marker icon 的实现参考了 https://github.com/react-native-community/react-native-maps 的相关代码
 
 
 ### Dev & Test 开发和测试说明
@@ -75,19 +72,19 @@ application 下添加名为 com.baidu.lbsapi.API_KEY 的 meta，如
 ```
 <meta-data
         android:name="com.baidu.lbsapi.API_KEY"
-        android:value="uDRdqQMGQeoPGn5CwMmIYicdUIVv1YST" />
+        android:value="G5mYoNNuUrrk0b91dcYQRdFo5qGfRAcQ" />
 ```
 
 #### iOS
 使用 BaiduMapManager.initSDK 方法设置 api key，如
 ```
-import { BaiduMapManager } from 'react-native-baidu-map'
+import { BaiduMapManager } from 'sog-baidu-map'
 BaiduMapManager.initSDK('sIMQlfmOXhQmPLF1QMh4aBp8zZO9Lb2A');
 ```
 
 ### Usage 使用方法
 
-    import { MapView, MapTypes, Geolocation, Overlay, MapApp } from 'react-native-baidu-map'
+    import { MapView, MapTypes, Geolocation, Overlay, MapApp } from 'sog-baidu-map'
 
 #### MapView Props 属性
 | Prop                    | Type  | Default  | Description
